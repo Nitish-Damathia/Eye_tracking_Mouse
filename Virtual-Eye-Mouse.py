@@ -1,3 +1,4 @@
+#Use your right eye to move the cursor and blink the left eye to click.
 import cv2
 import mediapipe as mp
 import pyautogui
